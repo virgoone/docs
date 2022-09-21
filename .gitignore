@@ -1,0 +1,6 @@
+  node_modules/
+  .idea
+  .tmp
+  npm-debug.log
+  .pnpm-*.log
+  package.json.temp
